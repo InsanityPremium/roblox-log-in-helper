@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Roblox bulk log-in helper
-// @version      1
-// @description  hi
+// @version      1.01
+// @description  Makes logging in with a combolist easier
 // @match        https://www.roblox.com/login*
 // @match        https://www.roblox.com/Login*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=roblox.com
